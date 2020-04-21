@@ -24,19 +24,10 @@
     content: "\f077"
 }
 
-.fa-twitter-square:before {
-    content: "\f081"
-}
-
-.fa-facebook-square:before {
-    content: "\f082"
-}
-
 .fa-twitter:before {
     content: "\f099"
 }
 
-.fa-facebook-f:before,
 .fa-facebook:before {
     content: "\f09a"
 }
@@ -47,8 +38,4 @@
 
 .fa-dribbble:before {
     content: "\f17d"
-}
-
-.fa-facebook-official:before {
-    content: "\f230"
 }
