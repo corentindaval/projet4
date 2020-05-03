@@ -27,6 +27,23 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+.mep
+{
+font-size:20px;	
+}
+
+.mep2
+{
+font-size:18px;	
+font-weight:bold;
+}
+
+#mep3
+{
+	font-size:10px;
+}
+
+
 .bloc {
     width: 100%;
     clear: both;
