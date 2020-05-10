@@ -43,6 +43,31 @@ font-weight:bold;
 	font-size:10px;
 }
 
+.mepimg
+{
+	width:100;
+}
+
+.img1
+{
+height=40;
+}
+
+.tc-black
+{
+	color:black;
+}
+
+.st
+{
+	color:#cccccc;
+	font-size:1px;
+}
+
+.st2
+{
+	color:#F3976C;
+}
 
 .bloc {
     width: 100%;
@@ -721,12 +746,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h3 {
     font-size: 22px;
     line-height: 1.4em;
 }
 
-h3 {
+h2 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
