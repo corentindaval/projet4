@@ -133,7 +133,7 @@ height=40;
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.jpg");
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
